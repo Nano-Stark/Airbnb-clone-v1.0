@@ -5,7 +5,7 @@ import Header from './Header'
 import Footer from './Footer';
 import { BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import SearchPage from './SearchPage';
-import { RemoveCircleOutlineSharp } from '@mui/icons-material';
+
 
 function App() {
   return (
